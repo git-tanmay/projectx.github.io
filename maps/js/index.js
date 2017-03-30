@@ -12,7 +12,7 @@ function initialize() {
   
   var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
   
-  var img = "http://i.stack.imgur.com/JWM0W.png";
+  var img = "https://i.stack.imgur.com/JWM0W.png";
   
   var Baner = new google.maps.Marker({
       position: mapOptions.center,
