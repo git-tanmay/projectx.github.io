@@ -1,6 +1,6 @@
 var urlsToCache_ = [
     '/',
-    '/index.html',
+    '/maps.html',
     '/css/style.css',
     '/js/index.js',
     '/manifest.json'
